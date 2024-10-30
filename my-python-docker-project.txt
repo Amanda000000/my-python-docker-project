@@ -1,0 +1,9 @@
+my-python-docker-project/
+│
+├── app/
+│   ├── main.py              # Fișierul principal al aplicației Python
+│   └── utils.py             # Fișier cu funcții ajutătoare
+│
+├── Dockerfile               # Fișierul pentru configurarea Docker
+├── requirements.txt         # Fișierul pentru dependențe
+└── README.md                # Fișierul cu instrucțiuni pentru proiect
